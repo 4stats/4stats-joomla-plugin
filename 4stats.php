@@ -3,7 +3,7 @@
 /**
  * 4stats Web Analytics Plugin for Joomla
  *
- * @version     1.0
+ * @version     1.1
  * @copyright   Copyright (C) 2014 4stats. All rights reserved.
  * @license     http://www.gnu.org/copyleft/gpl.html GNU/GPL
  * @category    Joomla Plugin
