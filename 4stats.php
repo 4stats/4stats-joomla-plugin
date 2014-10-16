@@ -56,8 +56,6 @@ class plgSystem4stats extends JPlugin
 		$application->initialise();
 		$user = &JFactory::getUser();
 		
-		error_log("hier: " . $ignoreadmins . " - " . $enabled);
-		error_log(print_r($user, true));
 		$trackingCode = "<script>\r\n";
 		$trackingCode .= "var _fss=_fss||{}; _fss.siteId = {$project_id};\r\n";
 		if($trackuser == 1 && $user->guest == 0)
