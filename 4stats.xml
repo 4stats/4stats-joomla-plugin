@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<extension version="1.1" type="plugin" group="system" method="upgrade">
+<extension version="1.2" type="plugin" group="system" method="upgrade">
 	<name>4stats</name>
 	<author>4stats</author>
 	<creationDate>October 2014</creationDate>
@@ -7,7 +7,7 @@
 	<license>GNU/GPL</license>
 	<authorEmail>support@4stats.de</authorEmail>
 	<authorUrl>www.4stats.de</authorUrl>
-	<version>1.1</version>
+	<version>1.2</version>
 	<description>This extension brings the 4stats Web Analytics to Joomla and integrates the tracking code on your page. Just go to Extensions > Plugin Manager to configure the plugin. To use it you have to be registered with www.4stats.de.</description>
 	<files>
 		<filename plugin="4stats">4stats.php</filename>
